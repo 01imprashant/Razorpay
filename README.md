@@ -44,7 +44,11 @@ image/              # Folder containing all images and icons
    ```bash
    npm install
    ```
-4. Start a local server to view the project in your browser. You can use extensions like Live Server in VS Code.
+4. Start script:
+   ```bash
+   npm run start
+   ```
+5. Start a local server to view the project in your browser. You can use extensions like Live Server in VS Code.
 
 ## Folder Structure
 
